@@ -8,6 +8,6 @@ I am a Python and a C# Programmer With two years of experience in Python and abo
 <img alt="wave" src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" width="50px">
 </p>
 
-Here are some cool effects for you:
+Here's a spinning cube for ya:
 
-<img alt="wave" src="https://thumbs.gfycat.com/NiftyIncompleteCondor-mobile.mp4" width="50px">
+<img alt="wave" src="https://media4.giphy.com/media/lwo2cfTZq6TtsxeeW8/giphy.gif?cid=ecf05e470c7lpochcke4yuwkhmkltg5144b6u4t4a4y2rrdr&rid=giphy.gif&ct=g" width="50px">
