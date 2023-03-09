@@ -10,4 +10,4 @@ I am a Python and a C# Programmer With two years of experience in Python and abo
 
 Here's a spinning cube for ya:
 
-<img alt="cube" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFkMDIzODVkZmZmYmQ0YzNmODJiMDhhNGQ3OGZhYmIzYTc0OThkNCZjdD1n/lwo2cfTZq6TtsxeeW8/giphy.gif" width="50px">
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFkMDIzODVkZmZmYmQ0YzNmODJiMDhhNGQ3OGZhYmIzYTc0OThkNCZjdD1n/lwo2cfTZq6TtsxeeW8/giphy.gif)
