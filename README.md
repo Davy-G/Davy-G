@@ -1,5 +1,5 @@
-<p style="color: #bd93f9;">
-I am a Python and a C# Programmer With 4 years of experience in Python and about 3 years of experience in C#.
+<p style="color: #a1fc03;">
+My name is david. I'm a software developer from Georgia(country). I have 3 years of experience with C# and .NET framework and 4 years of developing programs and websites in python. Throughout the years I have created lots of projects using blazor, ADO.NET, django. I also got certificates for creating these projects, for example: IT specialist in python and lots of others. I always try to participate in programming tournaments to win prizes and gain experience. 
 </p>
 
 # 💡 Skills:
