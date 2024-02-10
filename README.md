@@ -31,10 +31,11 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 ## contact info
  - Email: d@senatordavy.xyz
- + Website: <a href="senatordavy.xyz">senatordavy.xyz</a>
+ + Website:  [senatordavy.xyz](https://senatordavy.xyz)
 
 
-  
+ 
+
   
 
 ### Here's a spinning cube for you
