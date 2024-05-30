@@ -20,6 +20,12 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
     <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,sqlite"/>
   </a>
 </p>
+## ide's I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm,rider,vscode,visualstudio"/>
+  </a>
+</p>
 
 ## Operating systems I use
 <p align="center">
