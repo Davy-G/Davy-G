@@ -42,15 +42,16 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 ## ⚙️ GitHub Analytics
 
-<center>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenatorArmstrong228&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenatorArmstrong228&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenatorArmstrong228&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenatorArmstrong228&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=2077)
+<p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenatorArmstrong228&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenatorArmstrong228&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenatorArmstrong228&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenatorArmstrong228&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=2077">
+</p>
 
-</center>
+
 
 
 
