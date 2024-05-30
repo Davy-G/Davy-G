@@ -11,7 +11,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 ## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi,sqlite,tailwind,bootstrap"/>
   </a>
 </p>
 
