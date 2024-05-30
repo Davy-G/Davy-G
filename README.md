@@ -7,6 +7,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 </p>
 
 <hr>
+
 # 💡 Skills:
 
 ## frameworks and languages:
@@ -36,6 +37,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
     <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,linux,windows"/>
   </a>
 </p>
+
 <hr>
 
 ## ⚙️ GitHub Analytics
@@ -48,6 +50,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=dracula)
 
 <hr>
+
 ## contact info
  - Email: d@senatordavy.xyz
  + Website:  [senatordavy.xyz](https://senatordavy.xyz)
