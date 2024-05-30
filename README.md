@@ -7,10 +7,10 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 </p>
 
 
-## Languages I use:
+## Languages and frameworks I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi"/>
   </a>
 </p>
 
@@ -18,6 +18,13 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,sqlite"/>
+  </a>
+</p>
+
+## Operating systems I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,mint,debian,linux,windows"/>
   </a>
 </p>
 
