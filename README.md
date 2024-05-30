@@ -34,13 +34,4 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
  + Website:  [senatordavy.xyz](https://senatordavy.xyz)
 
 
- 
-
-  
-
-### Here's a spinning cube for you
-<p align="center">
-  <img src="https://github.com/SenatorArmstrong228/SenatorArmstrong228/raw/ce0d3e46ceca9197dcc80f5a666557fe62137d1a/tumblr_pjj34jI6Fd1qeyvpto1_500.gif" alt="Alt Text">
-</p>
-
 
