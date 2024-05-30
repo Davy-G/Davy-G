@@ -10,16 +10,11 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 ## 💡 Skills:
 
-![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-bd93f9?style=flat&logo=blazor)&nbsp;
-![ASPNET](https://img.shields.io/badge/-.net-bd93f9?style=flat&logo=.net)&nbsp;
-![C++](https://img.shields.io/badge/-C++-bd93f9?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-bd93f9?style=flat&logo=django&logoColor=092E20)&nbsp;
-![FastApi](https://img.shields.io/badge/-FastApi-bd93f9?style=flat&logo=fastapi)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-bd93f9?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-bd93f9?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## ⚙️ GitHub Analytics
 
