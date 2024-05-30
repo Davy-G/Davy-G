@@ -18,7 +18,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 ## Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,azure"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,azure,stackoverflow,vim"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 ## Operating systems
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,mint,debian,linux,windows"/>
+    <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,linux,windows"/>
   </a>
 </p>
 
