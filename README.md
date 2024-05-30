@@ -18,11 +18,14 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 ## ⚙️ GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenatorArmstrong228&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenatorArmstrong228&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenatorArmstrong228&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenatorArmstrong228&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=dracula)
+<p align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenatorArmstrong228&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenatorArmstrong228&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenatorArmstrong228&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenatorArmstrong228&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=dracula)
+</p>
+
 
 ## contact info
  - Email: d@senatordavy.xyz
