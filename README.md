@@ -12,19 +12,18 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,,docker,c,vim" />
   </a>
 </p>
 
 ## ⚙️ GitHub Analytics
 
-<p align="center">
+
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenatorArmstrong228&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenatorArmstrong228&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenatorArmstrong228&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenatorArmstrong228&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=dracula)
-</p>
 
 
 ## contact info
