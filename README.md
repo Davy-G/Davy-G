@@ -8,6 +8,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 # 💡 Skills:
 
+<hr>
 ## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
