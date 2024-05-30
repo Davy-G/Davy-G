@@ -10,25 +10,25 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 ## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi,sql,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi,sqlite"/>
   </a>
 </p>
 
-## tools:
+## Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github"/>
   </a>
 </p>
 
-## Ide's I use
+## Ide's
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,rider,vscode,visualstudio"/>
   </a>
 </p>
 
-## Operating systems I use
+## Operating systems
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,mint,debian,linux,windows"/>
