@@ -6,13 +6,18 @@
 My name is david. I'm a software developer from Georgia(country). I have 3 years of experience with C# and .NET framework and 4 years of developing programs and websites in python. Throughout the years I have created lots of projects using blazor, ADO.NET, django. I also got certificates for creating these projects, for example: IT specialist in python and lots of others. I always try to participate in programming tournaments to win prizes and gain experience. 
 </p>
 
-  
 
-## 💡 Skills:
-
+## Languages I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust"/>
+  </a>
+</p>
+
+## Things I use to speed up developement
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,sqlite"/>
   </a>
 </p>
 
