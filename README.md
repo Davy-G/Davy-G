@@ -7,17 +7,17 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 </p>
 
 
-## Languages and frameworks I use:
+## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi,sql,sqlite"/>
   </a>
 </p>
 
-## Things I use to speed up developement
+## tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github"/>
   </a>
 </p>
 
