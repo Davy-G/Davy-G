@@ -3,7 +3,15 @@
 
 
 <p style="color: #f4fc03;">
-My name is david. I'm a software developer from Georgia(country). I have 3 years of experience with C# and .NET framework and 4 years of developing programs and websites in python. Throughout the years I have created lots of projects using blazor, ADO.NET, django. I also got certificates for creating these projects, for example: IT specialist in python and lots of others. I always try to participate in programming tournaments to win prizes and gain experience. 
+Hey there, I'm David, a passionate software developer hailing from the beautiful country of Georgia. With a rich blend of experience and expertise, I've been immersed in the world of coding for a while now.
+
+I bring over three years of dedicated work with C# and the .NET framework, alongside a solid four-year journey crafting programs and websites in Python. Over the years, I've delved into various technologies, refining my skills with frameworks like Blazor and Django.
+
+What sets me apart is not just the projects I've worked on, but the depth of my commitment. I've poured my energy into creating impactful solutions, leveraging tools like ADO.NET and Django to bring ideas to life. My dedication has been recognized through certifications like the IT Specialist in Python, a testament to my proficiency in the field.
+
+But it's not just about the work; it's about the journey. I thrive on challenges, constantly pushing my limits by participating in programming tournaments. These experiences not only fuel my competitive spirit but also serve as invaluable learning opportunities, honing my skills and expanding my horizons.
+
+In essence, I'm not just a developer; I'm a problem-solver, an innovator, and a lifelong learner, driven by my passion for crafting elegant solutions and making a positive impact in the world of technology.
 </p>
 
 <hr>
