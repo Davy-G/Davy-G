@@ -18,14 +18,14 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 ## Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,ps,github,azure"/>
   </a>
 </p>
 
 ## Ide's
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,rustrover,datagrip,vscode,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
 </p>
 
