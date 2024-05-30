@@ -12,7 +12,7 @@ My name is david. I'm a software developer from Georgia(country). I have 3 years
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,py,c++,c,rust,html,css,dotnet,js"/>
+    <img src="https://skillicons.dev/icons?i=c,py,c++,c,rust,html,css,dotnet,js"/>
   </a>
 </p>
 
