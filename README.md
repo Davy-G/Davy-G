@@ -52,11 +52,11 @@ In essence, I'm not just a developer; I'm a problem-solver, an innovator, and a 
 
 
 <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenatorArmstrong228&theme=2077">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenatorArmstrong228&theme=2077">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenatorArmstrong228&theme=2077">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenatorArmstrong228&theme=2077">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenatorArmstrong228&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davy-G&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davy-G&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davy-G&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davy-G&theme=2077">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davy-G&theme=2077">
 </p>
 
 
