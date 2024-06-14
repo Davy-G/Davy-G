@@ -21,7 +21,7 @@ In essence, I'm not just a developer; I'm a problem-solver, an innovator, and a 
 ## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,rust,html,css,dotnet,js,rust,flask,django,fastapi,sqlite,tailwind,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,html,css,dotnet,js,rust,flask,django,fastapi,sqlite,tailwind,bootstrap"/>
   </a>
 </p>
 
