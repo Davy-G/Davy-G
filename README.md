@@ -1,6 +1,6 @@
 
 # Welcome...
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=orange&right_color=red) 
 
 
 <p style="color: #f4fc03;">
