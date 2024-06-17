@@ -67,7 +67,7 @@ In essence, I'm not just a developer; I'm a problem-solver, an innovator, and a 
 </p>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![snake gif](https://github.com/Davy-G/Davy-G/blob/output/github-contribution-grid-snake.svg)
 
