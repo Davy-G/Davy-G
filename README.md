@@ -62,7 +62,7 @@ In essence, I'm not just a developer; I'm a problem-solver, an innovator, and a 
 
 
 
-![snake animation](https://github.com/<seu Davy-G>/<seu Davy-G>/blob/output/github-contribution-grid-snake2.svg)
+![snake](https://github.com/<seu Davy-G>/<seu Davy-G>/blob/output/github-contribution-grid-snake2.svg)
 
 <hr>
 
