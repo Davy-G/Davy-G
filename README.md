@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red" />
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;I+hope+you'll+like+it!)](https://git.io/typing-svg)
 
 
 
