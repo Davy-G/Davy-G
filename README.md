@@ -1,6 +1,9 @@
 
 # Welcome...
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red) 
+<div class="right">
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red) 
+</div>
+
 
 
 <p style="color: #f4fc03;">
