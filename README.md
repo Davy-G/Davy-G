@@ -1,6 +1,6 @@
 
 # Welcome...
-<div class="right">
+<div align="right">
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red) 
 </div>
 
