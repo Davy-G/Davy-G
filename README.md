@@ -9,7 +9,9 @@
 
 <p style="color: #f4fc03;">
 Hey there, I'm David, a software developer coming from the country of Georgia. With a rich blend of experience and expertise, I've been immersed in the world of coding for a while now.
+  
 I have over three years of dedicated work with C# and the .NET framework, alongside a solid four-year journey crafting programs and websites in Python.
+
 Currently I study at georgian-american university, where i try to learn and help everyone.
 </p>
 
