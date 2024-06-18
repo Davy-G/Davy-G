@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red" />
 
-# <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;I+hope+you'll+like+it!"/>
+# <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;I+hope+you'll+like+it!">
 
 
 
