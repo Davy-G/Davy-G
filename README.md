@@ -58,16 +58,17 @@ Currently I study at Georgian-American university, where i try to learn more abo
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davy-G&theme=2077">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davy-G&theme=2077">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davy-G&theme=2077">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davy-G&theme=2077">     
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davy-G&theme=2077">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake.svg">
+      </picture>
 </p>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 <hr>
