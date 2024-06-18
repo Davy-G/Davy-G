@@ -23,14 +23,14 @@ Currently I study at Georgian-American university, where i try to learn more abo
 ## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,html,css,dotnet,js,rust,flask,django,fastapi,sqlite,tailwind,bootstrap,regex,bots,cmake"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,html,css,dotnet,js,django,fastapi,sqlite,tailwind,bootstrap,regex,bots"/>
   </a>
 </p>
 
 ## Tools and websites:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,azure,stackoverflow,vim,powershell,gmail,linkedin,discord"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,git,azure,stackoverflow,vim,powershell,gmail,linkedin,discord,nginx"/>
   </a>
 </p>
 
