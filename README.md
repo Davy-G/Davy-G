@@ -23,7 +23,7 @@ Currently I study at Georgian-American university, where i try to learn more abo
 ## frameworks and languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,cpp,c,html,css,dotnet,js,django,fastapi,sqlite,tailwind,bootstrap,regex,bots"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,dotnet,js,django,fastapi,sqlite,tailwind,bootstrap,regex,bots"/>
   </a>
 </p>
 
