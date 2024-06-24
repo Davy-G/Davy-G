@@ -17,6 +17,8 @@ I have over three years of dedicated work with C# and the .NET framework, alongs
 Currently I study at Georgian-American university, where i try to learn more about IT and help anyone that has questions about the topics i know.
 
 Thank you very much for reading! ♥
+
+p.s if you can, you can support me by starring my repos! thank you in advance! ♥
 </p>
 
 <hr>
