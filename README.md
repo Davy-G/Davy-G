@@ -18,7 +18,7 @@ Currently I study at Georgian-American university, where i try to learn more abo
 
 Thank you very much for reading! ♥
 
-p.s if you can, you can support me by starring my repos! thank you in advance! ♥
+p.s If you can, you can support me by starring my repos! thank you in advance! ♥
 </p>
 
 <hr>
