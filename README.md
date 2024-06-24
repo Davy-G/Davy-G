@@ -32,7 +32,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
   </a>
 </p>
 
-## Tools and websites: 🔨
+## Tools and websites: ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,git,azure,stackoverflow,vim,powershell,gmail,linkedin,discord,nginx"/>
