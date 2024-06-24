@@ -23,30 +23,30 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 
 <hr>
 
-# 💡 Skills:
+# 🎖️ Skills:
 
-## frameworks and languages:
+## frameworks and languages: 🌎
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,dotnet,js,django,fastapi,sqlite,tailwind,bootstrap,regex,bots"/>
   </a>
 </p>
 
-## Tools and websites:
+## Tools and websites: 🔨
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,git,azure,stackoverflow,vim,powershell,gmail,linkedin,discord,nginx"/>
   </a>
 </p>
 
-## Ide's
+## Ide's 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
 </p>
 
-## Operating systems
+## Operating systems 🖥️
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,linux,windows"/>
@@ -55,7 +55,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 
 <hr>
 
-## ⚙️ GitHub Analytics
+## 📈 GitHub Analytics
 
 
 <p align="center">
@@ -79,9 +79,9 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 
 <hr>
 
-## contact info
- - Email: d@senatordavy.xyz
- + Website:  [senatordavy.xyz](https://senatordavy.xyz)
+## contact info 📞
+ - Email: d@senatordavy.xyz 📩
+ + Website:  [senatordavy.xyz](https://senatordavy.xyz) 🌐
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
 
 
