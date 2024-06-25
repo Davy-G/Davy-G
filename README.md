@@ -25,35 +25,44 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 
 # 🎖️ Skills:
 
-## Frameworks and languages: 🎓
+## Frameworks and languages: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,dotnet,js,django,fastapi,sqlite,tailwind,bootstrap,regex,bots"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,dotnet,django,fastapi,sqlite,regex,bots"/>
   </a>
 </p>
 
 ## Tools and websites: ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,git,azure,stackoverflow,vim,powershell,gmail,linkedin,discord,nginx"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,git,azure,stackoverflow,powershell,gmail,linkedin,discord"/>
   </a>
 </p>
 
-## Ide's 🛠️
+## Ide's: 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
 </p>
 
-## Operating systems 🖥️
+## Operating systems: 🖥️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,linux,windows"/>
+    <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,kali,linux,windows"/>
   </a>
 </p>
 
+## Currently learning: 🎓
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rust,c,cmake,js,tailwind,bootstrap,java,flask,nginx,vim"/>
+    </a>
+  </p>
+  
 <hr>
+
+
 
 ## 📈 GitHub analytics
 
