@@ -76,7 +76,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! â
 # ðŸ“œ Random quote
 
 <div align="center">
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true">
   
 </div>
 
