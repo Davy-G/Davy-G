@@ -68,7 +68,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! â
 
 
 <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=Davy-G&theme=tokyonight-duo"/>
+        <img src="https://streak-stats.demolab.com/?user=Davy-G&theme=tokyonight"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davy-G&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davy-G&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davy-G&theme=tokyonight">
