@@ -25,7 +25,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 
 # 🎖️ Skills:
 
-## frameworks and languages: 🎓
+## Frameworks and languages: 🎓
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,dotnet,js,django,fastapi,sqlite,tailwind,bootstrap,regex,bots"/>
@@ -55,7 +55,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 
 <hr>
 
-## 📈 GitHub Analytics
+## 📈 GitHub analytics
 
 
 <p align="center">
@@ -73,13 +73,19 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 </p>
 
 
+# 📜 Random quote
+
+<div align="center">
+      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  
+</div>
 
 
 
 
 <hr>
 
-## contact info 📞
+## Contact info 📞
  - Email: d@senatordavy.xyz 📩
  + Website:  [senatordavy.xyz](https://senatordavy.xyz) 🌎
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
