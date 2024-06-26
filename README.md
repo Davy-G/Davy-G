@@ -56,7 +56,7 @@ p.s If you can, you can support me by starring my repos! thank you in advance! â
 ## Currently learning: ğŸ“
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,cmake,js,tailwind,bootstrap,java,flask,nginx,vim"/>
+      <img src="https://skillicons.dev/icons?i=rust,c,cmake,js,react,tailwind,bootstrap,java,flask,nginx,vim"/>
     </a>
   </p>
   
