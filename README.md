@@ -95,8 +95,8 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 <hr>
 
 ## Contact info 📞
- - Email: d@senatordavy.xyz 📩
- + Website:  [senatordavy.xyz](https://senatordavy.xyz) 🌎
+ - Email: david@gogodze.dev 📩
+ + Website:  [gogodze.dev](gogodze.dev) 🌎
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
 
 
