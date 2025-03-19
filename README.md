@@ -28,35 +28,28 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
 ## Frameworks and languages: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,dotnet,django,fastapi,sqlite,regex,bots"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,dotnet,sqlite"/>
   </a>
 </p>
 
 ## Tools and websites: ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,ai,au,ps,github,git,azure,stackoverflow,powershell,gmail,linkedin,discord"/>
-  </a>
-</p>
-
-## Ide's: 🛠️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,git,azure,powershell,"/>
   </a>
 </p>
 
 ## Operating systems: 🖥️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,kali,linux,windows"/>
+    <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu,kali,windows"/>
   </a>
 </p>
 
 ## Currently learning: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,cmake,js,react,tailwind,bootstrap,java,flask,nginx,vim"/>
+      <img src="https://skillicons.dev/icons?i=rust,c,php,react,tailwind,bootstrap,java"/>
     </a>
   </p>
   
