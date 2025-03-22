@@ -32,20 +32,6 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
   </a>
 </p>
 
-## Tools and websites: ⚒️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,git,azure,powershell,"/>
-  </a>
-</p>
-
-## Operating systems: 🖥️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu,kali,windows"/>
-  </a>
-</p>
-
 ## Currently learning: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
@@ -73,17 +59,6 @@ p.s If you can, you can support me by starring my repos! thank you in advance! �
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake.svg">
         </picture>
 </p>
-
-
-# 📜 Random quote
-
-<div align="center">
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true">
-  
-</div>
-
-
-
 
 <hr>
 
