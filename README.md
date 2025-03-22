@@ -47,8 +47,6 @@ Thank you very much for reading! ♥
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davy-G&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davy-G&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davy-G&theme=tokyonight">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davy-G&theme=tokyonight">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davy-G&theme=tokyonight">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davy-G/Davy-G/output/github-contribution-grid-snake.svg">
