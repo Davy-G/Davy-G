@@ -24,7 +24,7 @@ Thank you very much for reading! ♥
 ## Frameworks and languages: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,tailwind,bootstrap,css,js,ts,dotnet,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,dotnet,html,css,tailwind,bootstrap,js,ts,sqlite"/>
   </a>
 </p>
 
@@ -59,7 +59,6 @@ Thank you very much for reading! ♥
 ## Contact info 📞
  - Email: david@gogodze.dev 📩
  + Website:  [gogodze.dev](https://gogodze.dev) 🌎
- + Discord: @davy_armstrong
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
 
 
