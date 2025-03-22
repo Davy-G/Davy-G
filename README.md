@@ -24,14 +24,14 @@ Thank you very much for reading! ♥
 ## Frameworks and languages: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,dotnet,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,tailwind,bootstrap,css,js,ts,dotnet,sqlite"/>
   </a>
 </p>
 
 ## Currently learning: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,php,react,tailwind,bootstrap,java"/>
+      <img src="https://skillicons.dev/icons?i=rust,c,php,react,java"/>
     </a>
   </p>
   
