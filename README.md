@@ -14,11 +14,7 @@ Hey there, I'm David, a software developer coming from the country of Georgia. W
   
 I have over three years of dedicated work with C# and the .NET framework, alongside a solid four-year journey crafting programs and websites in Python.
 
-Currently I study at Georgian-American university, where i try to learn more about IT and help anyone that has questions about the topics i know.
-
 Thank you very much for reading! ♥
-
-p.s If you can, you can support me by starring my repos! thank you in advance! ♥
 </p>
 
 <hr>
